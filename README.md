@@ -8,6 +8,8 @@ In this notebook I went over the Ames Housing Dataset and attempted to create a 
 
 I later used this notebook for my submission in [this kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) and was able to score in the top 16.8% of participants.
 
+![alt text](https://github.com/bgosha24/Predicting-house-prices/blob/main/ames.jpg?raw=true)
+
 **This project:** 
 
 - Definitely ranked up my feature engineering skills and showed me the important of domain knowledge for building machine learning models
